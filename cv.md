@@ -18,3 +18,7 @@ Start career as a junior JS developer in EPAM and become a teamlead in 5 years
 ## Education 
 * Gymnasium №12 (Minsk 2006 - 2017, Economical focus) 
 * BNTU (Minsk 2017 - present, Architectural faculty | Architecture)
+## English
+* Gymnasium №12, Minsk (11 years)
+* BNTU (1 year of technical english)
+* GYMUN conference
