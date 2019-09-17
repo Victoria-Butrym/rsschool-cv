@@ -6,3 +6,7 @@ Start career as a junior JS developer in EPAM and become a teamlead in 5 years
 * GitHub: [https://github.com/Victoria-Butrym](https://github.com/Victoria-Butrym)
 * VK: [https://vk.com/victoria_butrym](https://vk.com/victoria_butrym)
 * Telegram: @victoria_butrym
+## Skills
+* HTML5 Basics
+* CSS3 Basics
+* Python 3 Basics
