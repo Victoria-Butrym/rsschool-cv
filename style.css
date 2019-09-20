@@ -35,7 +35,7 @@ body {
 
 .section {
     height: 100%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .left-section {
@@ -154,6 +154,23 @@ ul li {
     transition: .3s;
     color: #25423e;
 }
+
+.photo {
+    /* border-bottom: 2px solid #25423e; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 6rem 0 2rem 0;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%
+}
+
+
 
 /* .cv {
     margin: 0;
