@@ -187,6 +187,25 @@ img {
     color: #25423e;
 }
 
+.skillBox {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skill {
+    border: 1px solid #25423e;
+    height: 0.7rem;
+}
+
+.skillPercent {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #25423e;
+}
 /* .cv {
     margin: 0;
 } */
