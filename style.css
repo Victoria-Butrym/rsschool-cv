@@ -145,6 +145,16 @@ ul li {
     letter-spacing: 0.1rem;
 }
 
+.link {
+    text-decoration: none;
+    color: rgb(151, 151, 151);
+}
+
+.link:hover {
+    transition: .3s;
+    color: #25423e;
+}
+
 /* .cv {
     margin: 0;
 } */
