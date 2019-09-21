@@ -1,0 +1,208 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+body {
+    width: 102.4rem;
+    margin: 2rem auto;
+    height: 127rem;
+    box-shadow: 0px 0px 10px 1px rgba(186,186,186,1); 
+}
+
+.header {
+    height: 33rem;
+    background: linear-gradient(45deg, #25423e, #162625);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    height: 89.5rem;
+    margin: 2rem 3rem;
+    padding: 0 3.5rem;
+    border-top: 2px solid #25423e;
+    border-bottom: 2px solid #25423e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section {
+    height: 100%;
+}
+
+.left-section {
+    width: 48rem;
+    margin-top: 8rem;
+}
+
+.right-section {
+    width: 35rem;
+}
+
+.line {
+    width: 0.1rem;
+    height: 2rem;
+    background-color: rgb(199, 179, 155);
+    margin:0.5rem 0 1.5rem 0;
+}
+
+.logo {
+    border: 1px solid #dabfb5;
+    width: 9rem;
+    height: 9rem;
+    border-radius: 50%;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-inner-radius {
+    width: 7.7rem;
+    height: 7.7rem;
+    border: 1px solid #dabfb5;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo-letters {
+    font-family: Cardo ,serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.7rem;
+    color: #dabfb5;
+    border-top: 1px solid #dabfb5;
+    border-bottom: 1px solid #dabfb5;
+    width: 7.5rem;
+}
+
+h1 {
+    font-family: Cardo ,serif;
+    font-weight: 400;
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+    color: bisque;
+}
+
+h3 {
+    margin: .3rem 0 1rem 0;
+    padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    font-size: 1rem;
+    font-weight: 100;
+    font-family: Cardo ,serif;
+    color: bisque;
+}
+
+.block-title {
+    color: #25423e;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-bottom: 2px solid #25423e;
+    letter-spacing: 0.4rem;
+    line-height: 5.5rem;
+    font-size: 1.3rem;
+    padding: 0 15rem 1.3rem 0;
+}
+
+.block {
+    padding-top: 1.5rem;
+}
+
+.block p {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-top: .5rem;
+    color: rgb(151, 151, 151);
+    letter-spacing: 0.1rem;
+}
+
+ul li {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding-top: .5rem;
+    color: rgb(151, 151, 151);
+    letter-spacing: 0.1rem;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(151, 151, 151);
+}
+
+.link:hover {
+    transition: .3s;
+    color: #25423e;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 6rem 0 2rem 0;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%
+}
+
+.contacts ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contacts ul li {
+    margin: 1rem 0;
+}
+
+.fas, .fab {
+    padding-right: 1.5rem;
+    font-family: fontawesome;
+    color: #25423e;
+}
+
+.skillBox {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skillBox span {
+    color: rgb(151, 151, 151);
+    margin-top: 2rem;
+    letter-spacing: 0.1rem;
+}
+
+.skill {
+    border: 1px solid #25423e;
+    height: 0.7rem;
+}
+
+.skillPercent {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #25423e;
+}
